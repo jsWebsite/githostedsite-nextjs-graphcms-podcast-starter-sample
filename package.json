@@ -1,0 +1,32 @@
+{
+  "name": "nextjs-graphcms-podcast-starter",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.27",
+    "@fortawesome/free-solid-svg-icons": "^5.12.0",
+    "@fortawesome/react-fontawesome": "^0.1.8",
+    "@fullhuman/postcss-purgecss": "^2.0.5",
+    "@sendgrid/mail": "^6.5.2",
+    "blueimp-md5": "^2.12.0",
+    "date-fns": "^2.9.0",
+    "dotenv": "^8.2.0",
+    "graphql-request": "^1.8.2",
+    "jstoxml": "^1.6.0",
+    "markdown-to-jsx": "^6.10.3",
+    "next": "^9.2.1-canary.11",
+    "postcss-preset-env": "^6.7.0",
+    "react": "16.12.0",
+    "react-browser-hooks": "^2.2.4",
+    "react-dom": "16.12.0",
+    "react-draggable": "^4.2.0",
+    "react-hook-form": "^4.9.6",
+    "tailwindcss": "^1.2.0-canary.5"
+  },
+  "devDependencies": {}
+}
